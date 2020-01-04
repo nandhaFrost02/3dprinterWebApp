@@ -1,0 +1,31 @@
+--------------------------------------------------------
+Modal - bootstrap
+<Modal.Dialog show="false">
+  <Modal.Header closeButton>
+    <Modal.Title>Modal title</Modal.Title>
+  </Modal.Header>
+
+  <Modal.Body>
+    <p>Modal body text goes here.</p>
+  </Modal.Body>
+
+  <Modal.Footer>
+    <Button variant="secondary">Close</Button>
+    <Button variant="primary">Save changes</Button>
+  </Modal.Footer>
+</Modal.Dialog>
+--------------------------------------------------------
+header with w3css
+<div className="w3-container w3-gray w3-text-white">
+            <div className="custom-control-inline">
+              {/*yet to add image*/}
+              <h3>Header</h3>
+            </div>
+            <div className="float-right">
+              <Button variant="outline-dark"><h5>Join-us!</h5></Button>
+            </div>
+          </div>
+--------------------------------------------------
+~Features to add~
+prompt them to login before making checkout
+----------------------------------------------------
